@@ -1,0 +1,10 @@
+x=int(input("num1: "))
+y=int(input("num2: "))
+add=x+y
+sub=x-y
+mul=x*y
+div=x/y
+print("Addition of", x ,"and", y, "=",add)
+print("Subtraction of", x, "and", y, "=",sub)
+print("Multiplication of", x, "and", y, "=",mul)
+print("Division of", x, "and", y, "=" ,div)
